@@ -1,6 +1,6 @@
 # CamelCupConsole
 [Camel Cup](https://boardgamegeek.com/boardgame/153938/camel) is a board game designed by [Steffen Bogen](https://boardgamegeek.com/boardgamedesigner/10067/steffen-bogen) and ilustrated by [Dennis Lohausen](https://boardgamegeek.com/boardgamedesigner/12484/dennis-lohausen).
-##Game Description
+## Game Description
 In Camel Up, up to eight players bet on five racing camels, trying to suss out which will place first and second in a quick race around a pyramid. The earlier you place your bet, the more you can win — should you guess correctly, of course. Camels don't run neatly, however, sometimes landing on top of another one and being carried toward the finish line. Who's going to run when? That all depends on how the dice come out of the pyramid dice shaker, which releases one die at a time when players pause from their bets long enough to see who's actually moving!
 
 ### [Rule book](https://www.fgbradleys.com/rules/rules2/CamelUp-rules.pdf)
